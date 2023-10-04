@@ -1,4 +1,4 @@
-//main
+//main y 3d mergeados
 class Globo
 {
   float x, y,vx,vy;
