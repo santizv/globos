@@ -1,3 +1,4 @@
+//main
 class Globo
 {
   float x, y,vx,vy;
