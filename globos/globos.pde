@@ -20,6 +20,8 @@ class Globo
   void dibujate()
   {
       push();
+      noStroke();
+      lights();
       fill(c);
       translate(x,y);
       sphere(50);
