@@ -1,4 +1,5 @@
-//main y 3d mergeados
+//main y 3d rebase
+
 class Globo
 {
   float x, y,vx,vy;
@@ -25,7 +26,7 @@ class Globo
       lights();
       fill(c);
       translate(x,y);
-      sphere(50);
+      box(50);
       pop();
   }
   
