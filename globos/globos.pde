@@ -1,5 +1,6 @@
 class Globo
 {
+  //holahola
   float x, y,vx,vy;
   color c;
   Globo (float _x, float _y)
